@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
   
 
-### [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
+### [📄 View My CV](https://drive.google.com/file/d/1hVLpvoFGEjlzYqRqhZsWXvy-tc8Rn0bx/view?usp=sharing)
 
 ### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
