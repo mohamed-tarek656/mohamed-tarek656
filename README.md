@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O"> <!-- WhatsApp Channel -->
+    <a href="https://wa.me/201279756185"> <!-- WhatsApp Channel -->
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
     </a>
   </p>
