@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ### `📤 Contact & Social`
   <p align="left">
-    <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
+    <a href="mailto:mt465431@gmail.com"> <!-- Gmail -->
       <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
     </a>&nbsp;
-    <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
+    <a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O"> <!-- WhatsApp Channel -->
