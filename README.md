@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 <br>
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000">
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=مرحباً%20👋;أنا%20محمد%20طارق%20صلاح;مطور%20برمجيات%20.NET;مطور%20ويب%20Full%20Stack;دائماً%20أتعلم%20أشياء%20جديدة&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  </a>
+</p>
+
 
 
 ### `🚀 About Me`
