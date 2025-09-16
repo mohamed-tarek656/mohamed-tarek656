@@ -64,11 +64,7 @@ Here are some ideas to get you started:
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,aspnet,cpp,python,html,css,js,ts,react,angular,bootstrap,tailwind,sqlserver,mysql,postgres,mongodb,git,github,docker,kubernetes,azure,aws,postman,visualstudio,vscode,figma"/>
 </p>
 
-### `🏆 GitHub Trophies`
-  <p align="left">
-  
-  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
-  </div>
+
 
 ### `🔥 Streak`
   <p align="left">
