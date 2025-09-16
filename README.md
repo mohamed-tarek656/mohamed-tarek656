@@ -20,17 +20,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Mohamed%20Tarek%20Salah;Software%20Developer%20.NET;Full%20Stack%20Web%20Developer;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Mohamed%20Tarek%20Salah;Software%20Developer%20.NET;Full%20Stack%20Web%20Developer;Always%20Learning%20New%20Things;My%20First%20Project%20-%20Bootstrap;My%20Second%20Project%20-%20Trend&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
----
-
-### 🌐 Important Links
-
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-tarek-7aaa50374/)  
-- 🚀 [My First Project – Bootstrap](https://mohamed-tarek656.github.io/bootstrap/)  
-- 🚀 [My Second Project – Trend](https://trend-psi.vercel.app)  
 
 
 
