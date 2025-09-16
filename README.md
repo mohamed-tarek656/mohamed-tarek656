@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Mohamed%20Tarek%20Salah;Software%20Engineer%20%7C%20.NET%20Developer;Full%20Stack%20Web%20Developer;Always%20Learning%20New%20Things;My%20First%20Project%20-%20Trend;My%20Second%20Project%20-%20Bootstrap&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
-  </a>
+<a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Mohamed%20Tarek%20Salah;Software%20Engineer%20%7C%20.NET%20Developer;Full%20Stack%20Web%20Developer;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
+</a>
   <br><br>
   <a href="https://trend-psi.vercel.app" target="_blank" rel="noopener noreferrer">🚀 My First Project — Trend</a>
   &nbsp; | &nbsp;
