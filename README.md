@@ -67,10 +67,11 @@ Here are some ideas to get you started:
 
 
 ### `🔥 Streak`
-  <p align="center">
+<p align="left">
   <!-- GitHub Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/>
 </p>
+
 
 
 
