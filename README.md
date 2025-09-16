@@ -24,6 +24,13 @@ Here are some ideas to get you started:
     </a>
   </p>
 
+
+### `🚀 About Me`
+- 🎓 3rd-year Computer Science student at **Beni-Suef University**  
+- 💻 Passionate **Full Stack .NET Developer** with focus on building scalable applications  
+- 🌱 Currently exploring **Cloud Computing (Azure, AWS)** and **Clean Architecture**  
+- 🤝 Open to collaborations on **.NET projects** and **open-source contributions**  
+- ⚡ Always eager to learn and share knowledge about **modern software engineering practices** 
   
 
 ### [📄 View My CV](https://drive.google.com/file/d/1hVLpvoFGEjlzYqRqhZsWXvy-tc8Rn0bx/view?usp=sharing)
