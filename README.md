@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=مرحباً%20👋;أنا%20محمد%20طارق%20صلاح;مطور%20برمجيات%20.NET;مطور%20ويب%20Full%20Stack;دائماً%20أتعلم%20أشياء%20جديدة&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I'm%20Mohamed%20Tarek%20Salah;Software%20Engineer%20%7C%20.NET%20Developer;Full%20Stack%20Web%20Developer;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
+
 
 
 
