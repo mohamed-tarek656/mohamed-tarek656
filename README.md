@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 ### `🛠️ Languages & Tools`
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,git,html,css,js,docker"/>
-  </p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,aspnet,cpp,python,html,css,js,ts,react,angular,bootstrap,tailwind,sqlserver,mysql,postgres,mongodb,git,github,docker,kubernetes,azure,aws,postman,visualstudio,vscode,figma"/>
+</p>
 
 ### `🏆 GitHub Trophies`
   <p align="left">
