@@ -53,6 +53,9 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
+    <a href="https://www.facebook.com/share/1CbAzAZTJ5/"> <!-- Facebook Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45"/>
+    </a>&nbsp;
   
   </p>
 
